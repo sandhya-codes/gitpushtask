@@ -1,0 +1,30 @@
+body {
+    background-color: #eaeaea;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: #333;
+    font-size: 2.5em;
+}
+
+h2 {
+    color: #444;
+    border-bottom: 2px solid #ccc;
+    padding-bottom: 5px;
+}
+
+ul {
+    list-style-type: square;
+    padding-left: 20px;
+}
+
+p {
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+.contact {
+    font-style: italic;
+}
